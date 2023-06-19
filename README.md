@@ -1,1 +1,4 @@
-# githud_all
+* githud_all
+   * *reset*
+   * *stash*
+   * *rebasa*
